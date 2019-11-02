@@ -18,8 +18,12 @@ color: #4ba3c3;
 
 
 a {
-color:rgb(0, 0, 0);
+color:#0000EE;
 text-decoration:none;
+}
+
+a:hover {
+	text-decoration: underline;
 }
 
 /*tabel properties*/
