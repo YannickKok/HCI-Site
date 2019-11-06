@@ -176,6 +176,7 @@ margin-left: auto;
 margin-right: auto;
 max-width: 100%;
 }
+
 .img1 {
 	width: 45%;
 	padding-left: 2.5%;
@@ -186,15 +187,51 @@ max-width: 100%;
 	margin-right: auto;
 	
 	}
+
+.img2 {
+	transform: rotate(270deg);
+	width: 35%;
+
+	margin-top: 100px;
+	margin-bottom: 100px;
+
+}
+
+.img3 {
+	width: 65%;
+	padding-left: 2.5%;
+	padding-right: 2.5%;
+	display: block;
+
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 50px;
+	margin-bottom: 50px;
+
+}
 .caption {
 	float: left;
 }
 
-video {
-display: block;
+
+
+.video1 {
+	display: block;
 margin-left: auto;
 margin-right: auto;
-width:45%;
+width:25%;
+}
+
+.video3 {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 50px;
+	margin-bottom: 50px;
+	width:65%;
+	padding-left: 2.5%;
+	padding-right: 2.5%;
+
 }
 
 iframe {
